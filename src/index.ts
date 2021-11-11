@@ -52,10 +52,12 @@
 // }
 
 // Atividade 5
+// estoque();
 
 // function estoque(){
-//   let qtdMaxima = 200;
-//   let qtdMinima = 100;
+
+//   let qtdMaxima = 580;
+//   let qtdMinima = 120;
 //   let qtdAtual = 600;
 //   let qtdMedia =  qtdMaxima + qtdMinima/2;
 
@@ -65,6 +67,7 @@
 //     console.log("Quantidade média =:",qtdMedia,".Não efetuar compra");
 //   }else{
 //     console.log(" ");
+//   }
 //   }
  
 //   return qtdMedia;
